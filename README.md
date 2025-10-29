@@ -61,5 +61,5 @@ Always learning by doing — currently working on a complete 17-project roadmap 
 - [GitHub](https://github.com/carlosadrados)
   
 
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/carlos-adrados-benítez-142a48396/) | [GitHub](https://github.com/carlosadrados)
+
 
