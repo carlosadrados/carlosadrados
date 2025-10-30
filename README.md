@@ -2,9 +2,7 @@
 <img width="1280" height="320" alt="Carlos Adrados" src="https://github.com/user-attachments/assets/3cba0792-fde7-4f61-8d96-c4c7a20ebf80" />
 
 
-<p align="center">
-  <img src="https://ruta-de-tu-imagen.png" alt="Banner Carlos Adrados" width="100%">
-</p>
+
 
 
 # 👋 Hi, I'm Carlos Adrados
