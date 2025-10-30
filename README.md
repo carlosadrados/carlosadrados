@@ -1,5 +1,5 @@
 
-<img width="1280" height="320" alt="Carlos Adrados" src="https://github.com/user-attachments/assets/3cba0792-fde7-4f61-8d96-c4c7a20ebf80" />
+[<img width="1280" height="320" alt="Carlos Adrados" src="https://github.com/user-attachments/assets/3cba0792-fde7-4f61-8d96-c4c7a20ebf80" />](https://raw.githubusercontent.com/carlosadrados/cloud-devops-projects/refs/heads/main/Carlos%20Adrados.png)
 
 
 
